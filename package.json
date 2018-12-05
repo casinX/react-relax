@@ -1,9 +1,11 @@
 {
-  "name": "@kts/react-relax",
+  "name": "@ktx/react-relax",
   "version": "1.0.0",
   "description": "State container for React applications",
   "keywords": [
     "kts",
+    "ktx",
+    "casinX",
     "relax",
     "react",
     "react-relax",

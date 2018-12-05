@@ -7,8 +7,9 @@ import pkg from './package.json'
 
 const env = process.env.NODE_ENV;
 
+
 const config = {
-  input: 'src/index.js',
+  input: './src/index.js',
   external: Object.keys(pkg.peerDependencies || {}),
   output: {
     format: 'umd',
@@ -48,5 +49,6 @@ if (env === 'production') {
     })
   )
 }
+
 
 export default config
