@@ -1,6 +1,6 @@
 {
   "name": "@ktx/react-relax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "State container for React applications",
   "keywords": [
     "kts",
